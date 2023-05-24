@@ -18,8 +18,8 @@
 
 # CLIENT PROGRAM :
 ```PY
-## Developed : Akash A
-## Reg no : 212221230003
+## Developed : AAKAASH V P
+## Reg no : 212220230001
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
